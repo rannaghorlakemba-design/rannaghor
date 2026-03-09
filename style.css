@@ -41,4 +41,21 @@
 
 .order-btn:hover{
   background:#b91515;
+
+}
+
+
+/* TOP BAR COLOR */
+header, nav, .navbar {
+  background-color: red;
+}
+
+/* MENU TEXT COLOR */
+header a, nav a, .navbar a {
+  color: white;
+}
+
+/* HERO / GREY SECTION */
+.hero, #home {
+  background-color: black;
 }
