@@ -74,3 +74,20 @@ header a{
 #home{
   background-color:black !important;
 }
+
+/* TOP BAR */
+body > div:first-child,
+header,
+nav {
+    background-color: #c40000;
+}
+
+/* MENU TEXT */
+nav a, header a {
+    color: white;
+}
+
+/* GREY HERO AREA */
+section {
+    background-color: black;
+}
