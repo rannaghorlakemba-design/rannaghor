@@ -59,3 +59,18 @@ header a, nav a, .navbar a {
 .hero, #home {
   background-color: black;
 }
+
+/* Top navigation bar */
+header{
+  background-color:#c40000 !important;
+}
+
+/* Menu text */
+header a{
+  color:white !important;
+}
+
+/* Main hero section (grey area) */
+#home{
+  background-color:black !important;
+}
